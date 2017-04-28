@@ -13,3 +13,23 @@ body{
     margin: 0 auto;
 }
 
+.flex-container{
+    //display: flex;
+}
+
+.box{
+    height: 100px;
+    min-width: 100px;
+}
+
+.one{
+    background: pink;
+}
+
+.two{
+    background: turquoise;
+}
+
+.three{
+    background: silver;
+}
